@@ -3,5 +3,23 @@
     "animate.css": "^4.1.1",
     "bootstrap": "^5.2.2",
     "underscore": "^1.13.6"
-  }
+  },
+  "name": "landing-page",
+  "description": "npm install",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiguelUB/landing-page.git"
+  },
+  "author": "Dophins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiguelUB/landing-page/issues"
+  },
+  "homepage": "https://github.com/MiguelUB/landing-page#readme"
 }
